@@ -1,10 +1,6 @@
 # adapt-dnd-multiple
-**adapt-dnd-multiple** is a presentation component. You can see it [here](https://adaptlearning-no-core.web.app/#/id/qo-35).
-
-## Settings Overview
-The attributes are used in components.json and are properly formatted as JSON in  [*example.json*](https://github.com/nachocinalli/adapt-dnd-multiple/blob/master/example.json).
+**adapt-dnd-multiple** is a presentation component forked from [Ignacio Cinalli] (https://github.com/nachocinalli)  
 
 ----------------------------
 
-
-**Author / maintainer:** [Ignacio Cinalli] (https://github.com/nachocinalli)  
+**Author / maintainer:** [Ally Lundie] (https://github.com/Allylearning) 
