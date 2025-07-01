@@ -46,6 +46,8 @@ export default function DndMultipleDragable({
           ref={provided.innerRef}
           {...provided.draggableProps}
           {...provided.dragHandleProps}
+          aria-hidden={onSelect ? undefined : true}
+          tabIndex={onSelect ? undefined : -1}
         >
           {DragItemGraphic()}
           <span
