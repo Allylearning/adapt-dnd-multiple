@@ -1,0 +1,104 @@
+{
+  "_id": "c-05",
+  "_parentId": "b-05",
+  "_type": "component",
+  "_component": "dnd-multiple",
+  "_classes": "",
+  "_layout": "full",
+  "title": "Drag and drop multiple",
+  "displayTitle": "Drag and drop multiple",
+  "body": " ",
+  "instruction": "Drag the items into the correct category.",
+  "ariaQuestion": "Drag the items into the correct category.",
+  "_attempts": 1,
+  "_shouldDisplayAttempts": false,
+  "_shouldResetAllAnswers": false,
+  "_isRandom": false,
+  "_isRandomQuestionOrder": false,
+  "_questionWeight": 1,
+  "_canShowModelAnswer": true,
+  "_canShowFeedback": true,
+  "_canShowMarking": true,
+  "_recordInteraction": true,
+  "_hasItemScoring": false,
+  "_useStrictOrder": false,
+  "_startText": "Choices",
+  "_itemMinHeight": 0,
+  "_items": [
+    {
+      "title": "Category 1",
+      "_options": [
+        {
+          "title": "Option 1.1",
+          "_graphic": {
+            "src": "",
+            "isBackground": false,
+            "alt": ""
+          }
+        },
+        {
+          "title": "Option 1.2",
+          "_graphic": {
+            "src": "",
+            "isBackground": false,
+            "alt": ""
+          }
+        },
+        {
+          "title": "Option 1.3",
+          "_graphic": {
+            "src": "",
+            "isBackground": false,
+            "alt": ""
+          }
+        }
+      ]
+    },
+    {
+      "title": "Category 2",
+      "_options": [
+        {
+          "title": "Option 2.1",
+          "_graphic": {
+            "src": "",
+            "isBackground": false,
+            "alt": ""
+          }
+        },
+        {
+          "title": "Option 2.2",
+          "_graphic": {
+            "src": "",
+            "isBackground": false,
+            "alt": ""
+          }
+        },
+        {
+          "title": "Option 2.3",
+          "_graphic": {
+            "src": "",
+            "isBackground": false,
+            "alt": ""
+          }
+        }
+      ]
+    }
+  ],
+  "_feedback": {
+    "title": "Feedback",
+    "altTitle": "Alt feedback title text",
+    "correct": "This feedback will appear if you answered the question correctly.",
+    "_incorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered the question incorrectly."
+    },
+    "_partlyCorrect": {
+      "notFinal": "",
+      "final": "This feedback will appear if you answered part of the question correctly."
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_isCompletionIndicatorEnabled": false
+  }
+}
