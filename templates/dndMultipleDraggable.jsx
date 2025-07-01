@@ -46,9 +46,6 @@ export default function DndMultipleDragable({
           ref={provided.innerRef}
           {...provided.draggableProps}
           {...provided.dragHandleProps}
-          role='button'
-          aria-pressed={isSelected ? 'true' : 'false'}
-          tabIndex={0}
         >
           {DragItemGraphic()}
           <span
